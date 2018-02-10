@@ -1,1 +1,1 @@
-# pattogo_labda
+Pattogó labda változtatható ablakmérettel
